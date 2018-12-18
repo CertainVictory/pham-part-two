@@ -1,5 +1,5 @@
 function result() {
-    var event = "What kind of event are you going to?";
+    var event = "Is the event casual, semi-formal, or formal?";
     var eventType = prompt(event);
     var temp = "What temperature is it outside?";
     var tempFahr = prompt(temp);
